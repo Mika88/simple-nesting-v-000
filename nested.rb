@@ -100,8 +100,6 @@ def changing_alan
           :languages => ["C"]
         }
      }
-
-     
 end
 binding.pry
 def adding_to_dennis
