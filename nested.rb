@@ -1,4 +1,4 @@
-require 'pry'
+
 def hopper
 	programmer_hash =
  		{
@@ -83,7 +83,7 @@ def adding_matz
 	                     }
                       }
 end
-
+require 'pry'
 def changing_alan
 	programmer_hash =
  		{
